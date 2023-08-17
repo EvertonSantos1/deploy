@@ -1,6 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
-Meu aplicativo Nuxt Vue
+	Meu primeiro Aplicativo Web
   </div>
 </template>
